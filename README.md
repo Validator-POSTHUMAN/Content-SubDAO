@@ -2,5 +2,5 @@
 # Content SubDAO
 ### Этот репозиторий станет средством передачи знаний между основной командой POSTHUMAN и участниками от сообщества POSTHUMAN Content SubDAO.<br/>
 ### This repository will be a medium of knowledge between POSTHUMAN Core Team and Public contributors to POSTHUMAN Content SubDAO.
-- На русском
-- На английском
+- [На русском](https://github.com/Validator-POSTHUMAN/Content-SubDAO/blob/main/Ru.md)
+- [In English](https://github.com/Validator-POSTHUMAN/Content-SubDAO/blob/main/Eng.md)
