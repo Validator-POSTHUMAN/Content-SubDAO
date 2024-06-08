@@ -62,6 +62,8 @@
 
 ![Classes](https://github.com/Validator-POSTHUMAN/Content-SubDAO/assets/92199696/689e833d-df31-409c-80c7-e138d8f264a5)
 
+| [**Подборка инструментов для цифрового энтузиаста**](https://github.com/Validator-POSTHUMAN/Content-SubDAO/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%84%D1%82%D1%83.md)
+|
 - **МАСТЕР ПУБЛИКАЦИИ** (Публикация контента на разные платформы (YouTube, Omniflix)
 - **WEB3 ТЕЛЕПОРТ** Перемещение контента с YouTube на Web3 платформы
 - **ЦЕЗАРЬ ПОЛИГЛОТ** Масштабирование присутствия контента на разные языки с использованием нейросетей для ускорения процесса
