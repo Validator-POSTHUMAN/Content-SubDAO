@@ -55,7 +55,7 @@
 - Твиттер CosmosEcosystem
 - Твиттер POSTHUMAN
 - Github POSTHUMAN 
-- Farcaster 
+- Farcaster, Lens, Debank 
 - Платформы, где вы считаете, что можно перенаправить видео/аудио/графическое присутствие валидатора, напишите нам об этом в Content SubDAO или создайте issue/pull request к этому файлу. 
 
 # Что нужно Content SubDAO? 
