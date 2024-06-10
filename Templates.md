@@ -16,6 +16,10 @@ https://jackal.link/p/jkl1k0gj4c8j7343e37te5rmcag49n4zu5qaqs5c87/radiant/GIMP TE
 ```md 
 https://jackal.link/p/jkl1k0gj4c8j7343e37te5rmcag49n4zu5qaqs5c87/radiant/GIMP FLIX PLAYLIST TEMPLATE 1000x1000.xcf
 ```
+- **Скачать обложку для плейлиста Omniflix** <br/>
+```md
+https://jackal.link/p/jkl1k0gj4c8j7343e37te5rmcag49n4zu5qaqs5c87/radiant/squaretemplateGIMP.png
+```
 - **Шаблон для репозитория на Github GIMP** <br/>
 ```md 
 https://jackal.link/p/jkl1k0gj4c8j7343e37te5rmcag49n4zu5qaqs5c87/radiant/GIMP TEMPLATE GITHUB HEADER.xcf
